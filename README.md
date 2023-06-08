@@ -1,4 +1,4 @@
-# 50Proyectos
+# 50 Proyectos
 Basado en https://github.com/bradtraversy/50projects50days para practicar html, css y js
 
 Aqui estan todos los proyectos
