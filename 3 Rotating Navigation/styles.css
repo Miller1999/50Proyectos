@@ -1,0 +1,106 @@
+*,p,h1,h3,li{
+    font-family: "Raleway";
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: black;
+    overflow-x: hidden;
+}
+nav{
+    padding: 30px;
+    position: fixed;
+    bottom: 1vh;
+}
+nav ul{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+nav img{
+    filter: invert(100%);
+    width: 30px;
+}
+nav li{
+    color: white;
+    font-size: 30px;
+    display: flex;
+    gap: 20px;
+}
+nav li:nth-child(2){
+    padding-left: 50px;
+}
+nav li:nth-child(3){
+    padding-left: 100px;
+}
+.circulo,.fondoSuperior{
+    opacity: 100;
+}
+.circulo{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    background-color: lightcoral;
+    top: -15%;
+    left: -10%;
+    border-radius: 100%;
+    z-index: 3;
+}
+.texto{
+    display: flex;
+    gap: 25px;
+    padding: 20px;
+}
+.contenedorSecciones{
+    display: flex;
+    flex-direction: column;
+}
+.fondoSuperior{
+    display: flex;
+    flex-direction: column;
+    background-color: azure;
+    padding: 50px;
+    position: relative;
+    width: 100vw;
+    height: fit-content;
+    z-index: 2;
+    transform-origin: 0 0;
+}
+.contenido{
+    margin: 150px 500px;
+    max-width: 1000px;
+}
+.contenedorTitulo{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 10px;
+    width: 50%;
+}
+.contenedorTitulo h1{
+    font-size: 30px;
+    color: gray;
+    font-weight: bolder;
+}
+.contenedorTitulo p{
+    font-style: italic;
+}
+.contenedorArticulo{
+    margin: 20px 0px;
+}
+.contenedorArticulo p{
+    line-height: 30px;
+    font-size: 20px;
+}
+.contenedorImagen{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.contenedorImagen h3{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.fondoSuperior:hover{
+    rotate: -20deg;
+}
