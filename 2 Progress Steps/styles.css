@@ -10,14 +10,17 @@ p{
 }
 body{
     background-color: azure;
+    width: 1920px;
+    height: 1080px;
 }
 .contenedorPrincipal{
     display: flex;
-    width: 2000px;
-    height: 1080px;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    position: absolute;
+    top: 30vh;
+    left: 30%;
 }
 .contenedorCirculos{
     display: flex;
