@@ -1,0 +1,45 @@
+body{
+    background-color:lightcyan;
+    max-width: 100vw;
+    max-height: 100vh;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contenedor{
+    display: inline-flex;
+    align-items: center;
+    padding: 20px;
+    background-color: white;
+    gap: 10px;
+    width: 40px;
+    transition: all .7s linear;
+}
+.contenedor img{
+    width: 30px;
+    position: relative;
+    top: 50%;
+    left: -50%;
+    z-index: 2;
+}
+.contenedor button{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+.activo{
+    height: 30px;
+    width: 250px;
+    font-size: 20px;
+    outline: none;
+    border: none;
+    transition: all .7s linear;
+}
+.hidden{
+    height: 0px;
+    width: 0px;
+}
+.contenedorC{
+    width: 280px;
+}
