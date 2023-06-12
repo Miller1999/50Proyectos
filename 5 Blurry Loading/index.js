@@ -11,7 +11,7 @@ function loading(){
         clearInterval(int)
     }
     texto.innerHTML = `${carga}%`
-    texto.style.opacity = scale(carga,0,100,0,1)
+    texto.style.opacity = scale(carga,0,100,1,0)
     imagen.style.filter = `blur(${scale(carga,0,100,30,0)}px)`
 }
 
