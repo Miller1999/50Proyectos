@@ -10,4 +10,5 @@ Aqui estan todos los proyectos
 | 03  | [Rotating Navigation](https://github.com/Miller1999/50Proyectos/tree/main/3%20Rotating%20Navigation)  | [Demostración](https://50-proyectos-3-rotating-navigation.vercel.app/)        |
 | 04  | [Hidden Search](https://github.com/Miller1999/50Proyectos/tree/main/4%20Hidden%20Search)              | [Demostración](https://50-proyectos-4-hidden-search.vercel.app/)              |
 | 05  | [Blurry Loading](https://github.com/Miller1999/50Proyectos/tree/main/5%20Blurry%20Loading)            | [Demostración](https://50-proyectos-5-blurry-loading.vercel.app)              |
+| 06  | [Scroll Animation](https://github.com/Miller1999/50Proyectos/tree/main/6%20Scroll%20Animation)        | [Demostración](https://50-proyectos-6-scroll-animation.vercel.app/)           |
 
