@@ -22,6 +22,7 @@ En la siguiente tabla se muestran cada uno de los repositorios de cada proyecto 
 | 04  | [Hidden Search](https://github.com/Miller1999/50Proyectos/tree/main/4%20Hidden%20Search)              | [Demostración](https://50-proyectos-4-hidden-search.vercel.app/)              |
 | 05  | [Blurry Loading](https://github.com/Miller1999/50Proyectos/tree/main/5%20Blurry%20Loading)            | [Demostración](https://50-proyectos-5-blurry-loading.vercel.app)              |
 | 06  | [Scroll Animation](https://github.com/Miller1999/50Proyectos/tree/main/6%20Scroll%20Animation)        | [Demostración](https://50-proyectos-6-scroll-animation.vercel.app/)           |
+| 07  | [Split Landing Page](https://github.com/Miller1999/50Proyectos/tree/main/7%20Split%20Landing%20Page)  | [Demostración](https://50-proyectos-7-split-landing-page.vercel.app/)         |
 
 ### Tecnologias usadas
 Cada uno de los proyectos ha sido desarrollado completamente en 
