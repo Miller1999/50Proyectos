@@ -1,0 +1,75 @@
+*{
+    box-sizing: border-box;
+    transition: all .9s linear;
+    overflow: hidden;
+}
+h1{
+    font-family: "Raleway";
+}
+.contenedorGrande{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+.item{
+    height: 100vh;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+}
+.item h1{
+    font-weight: 900;
+    font-size: 40px;
+    margin: 20px;
+    color: white;
+    position: absolute;
+    transform: translateY(-75px);
+}
+.item button{
+    width: 200px;
+    height: 75px;
+    background-color: transparent;
+    border: white 2px solid;
+    color: white;
+    position: absolute;
+    font-weight: 900;
+    font-family: "Raleway";
+}
+.item:first-child button:hover{
+    background-color: blue;
+    border: none;
+}
+.item:last-child button:hover{
+    background-color: #107c0f;
+    border: none;
+}
+.item:hover{
+    width: 140%;
+}
+.item:first-child{
+    background-image:url("./assets/ps.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.item:first-child::before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(87, 84, 236, 0.7);
+}
+.item:last-child{
+    background-image: url("./assets/xbox.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.item:last-child::before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(43, 43, 43, 0.8);
+}
