@@ -1,0 +1,105 @@
+*{
+    box-sizing: border-box;
+    transition: 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55)
+}
+body{
+    background-color: #4682b4;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: "Raleway";
+    color: white;
+}
+.container{
+    width: 380px;
+    height: 433px;
+    background-color: #2a4e6c;
+    padding: 40px;
+    border-radius: 10px;
+    position: relative;
+}
+.formulario{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.formulario h1{
+    text-align: center;
+    font-weight: 900;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.formulario input{
+    background-color: transparent;
+    border:none;
+    border-bottom: white 2px solid;
+    outline:none;
+    height: 40px;
+    margin: 20px 0px;
+    color: white;
+    font-size: 18px;
+}
+.titulo{
+    position: absolute;
+}
+.titulo span{
+    float: left;
+    font-weight: 800;
+}
+.email{
+    top: 30%;
+}
+.password{
+    top: 55%;
+}
+.formulario button{
+    margin: 20px 0px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    background-color: #add8e6;
+    font-size: medium;
+}
+.formulario button:hover{
+    cursor: pointer;
+}
+.container ul{
+    position: absolute;
+    bottom: 10%;
+    display: flex;
+    gap: 10px;
+}
+.container ul li a{
+    text-decoration: none;
+    color: #add8e6;
+}
+.container ul li a:hover{
+    cursor: pointer;
+}
+.formulario #email:focus + .email span{
+    border-bottom: #add8e6 2px solid;
+    color: #add8e6;
+}
+.formulario #password:focus + .password span{
+    border-bottom: #add8e6 2px solid;
+    color: #add8e6;
+}
+
+@keyframes subir {
+    0%{
+        transform: translateY(0px);
+    }
+    100%{
+        transform: translateY(-30px);
+}
+} 
+@keyframes bajar {
+    0%{
+        transform: translateY(-30px);
+    }
+    100%{
+        transform: translateY(0px);
+}
+} 
