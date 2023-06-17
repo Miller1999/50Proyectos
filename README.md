@@ -25,6 +25,7 @@ En la siguiente tabla se muestran cada uno de los repositorios de cada proyecto 
 | 07  | [Split Landing Page](https://github.com/Miller1999/50Proyectos/tree/main/7%20Split%20Landing%20Page)  | [Demostración](https://50-proyectos-7-split-landing-page.vercel.app/)         |
 | 08  | [Form Wave](https://github.com/Miller1999/50Proyectos/tree/main/8%20Form%20Wave)                      | [Demostración](https://50-proyectos-8-form-wave.vercel.app/)                  |
 | 09  | [Sound Board](https://github.com/Miller1999/50Proyectos/tree/main/9%20Sound%20Board)                  | [Demostración](https://50-proyectos-9-sound-board.vercel.app/)                |
+| 10  | [Dad Jokes](https://github.com/Miller1999/50Proyectos/tree/main/10%20Dad%20Jokes)                     | [Demostración](https://50-proyecto-10-dad-jokes.vercel.app/)                  |
 
 ### Tecnologias usadas
 Cada uno de los proyectos ha sido desarrollado completamente en 
@@ -35,6 +36,7 @@ Cada uno de los proyectos ha sido desarrollado completamente en
 Durante el proceso se ha utilizado la documentacion oficial de javascript y el proyecto de Brad Traversy
 - [Mozilla for Developers](https://developer.mozilla.org/es/)
 - [50projects50days](https://github.com/bradtraversy/50projects50days/tree/master)
+- [Trabajar con fetch](https://medium.com/williambastidasblog/cómo-llamar-a-una-api-rest-desde-javascript-4c5a42fb331)
 ### Licencia
 > This project is licensed under MIT.
 ### Autor
