@@ -1,0 +1,111 @@
+body{
+    background-color: #f0f0f0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    font-family: "Raleway";
+    box-sizing: border-box;
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.contenedor h1{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-weight: 900;
+    font-size: 35px;
+    text-align: center;
+}
+.tarjeta{
+    border: 1px gray solid;
+    border-radius: 10px;
+    background-color: white;
+    padding: 40px 30px;
+    width: 600px;
+    height: 50px;
+    position: relative;
+    overflow: hidden;
+    transition: all .2s linear;
+}
+.activa{
+    box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.75);
+}
+.tarjeta::before{
+    content:"\1F5E8";
+    position: absolute;
+    top: -30px;
+    left: -50px;
+    color: blue;
+    opacity: 0.1;
+    font-size: 150px;
+    z-index: 1;
+}
+.tarjeta::after{
+    content:"\1F5E9";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    color: green;
+    opacity: 0.1;
+    font-size: 150px;
+    z-index: 1;
+}
+.tarjeta h6{
+    font-weight: 900;
+    margin-bottom: 25px;
+    font-size: 20px;
+    position: relative;
+    z-index: 2;
+    display: inline-block;
+}
+.tarjeta p{
+    position: relative;
+    color: black;
+    font-weight: 600;
+    z-index: 2;
+}
+
+button{
+    background-color: transparent;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tarjeta img{
+    width: 30px;
+}
+.ocultar{
+    display: none;
+}
+.mitad{
+    height: 15px;
+    background-color: #f0f0f0;
+}
+.mitad p{
+    display: none;
+}
+.mitad::before{
+    content:"";
+}
+.mitad::after{
+    content:"";
+}
+.mitad button .grande{
+    display: none;
+}
+.activa button .flecha{
+    display: none;
+}
