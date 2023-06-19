@@ -27,6 +27,7 @@ En la siguiente tabla se muestran cada uno de los repositorios de cada proyecto 
 | 09  | [Sound Board](https://github.com/Miller1999/50Proyectos/tree/main/9%20Sound%20Board)                  | [Demostración](https://50-proyectos-9-sound-board.vercel.app/)                |
 | 10  | [Dad Jokes](https://github.com/Miller1999/50Proyectos/tree/main/10%20Dad%20Jokes)                     | [Demostración](https://50-proyecto-10-dad-jokes.vercel.app/)                  |
 | 11  | [Event KeyCodes](https://github.com/Miller1999/50Proyectos/tree/main/11%20Event%20KeyCodes)           | [Demostración](https://50-proyectos-11-event-keycodes.vercel.app/)            |
+| 12  | [FAQ Collapse](https://github.com/Miller1999/50Proyectos/tree/main/12%20FAQ%20Collapse)               | [Demostración](https://50-proyectos-12-faq-collapse.vercel.app/)              |
 
 ### Tecnologias usadas
 Cada uno de los proyectos ha sido desarrollado completamente en 
