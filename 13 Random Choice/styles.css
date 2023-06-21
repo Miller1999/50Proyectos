@@ -39,9 +39,12 @@ body{
     padding: 5px;
     border-radius: 10px;
     background-color: blue;
+    margin: 0px 10px;
 }
 .creadas{
-    border:1px red solid;
     padding: 5px;
     border-radius: 10px;
+}
+.highlight{
+    background-color: red;
 }
