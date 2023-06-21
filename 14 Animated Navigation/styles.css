@@ -1,0 +1,104 @@
+*{
+    box-sizing: border-box;
+    transition: all 1s;
+}
+body{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    font-family: "Raleway";
+}
+.arriba{
+    background-color: #eafbff;
+    width: 100%;
+    height: 50vh;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
+.abajo{
+    background-color: #5290f9;
+    width: 100%;
+    height: 50vh;
+    position: absolute;
+    bottom: 0;
+    z-index: -1;
+}
+.navegacion{
+    background-color: #ffffff;
+    width: 25%;
+    height: 7%;
+    display: flex;
+    align-items: center;
+    box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.75);
+    transition: all 1s;
+    justify-content: space-around;
+}
+.navegacion section{
+    display: flex;
+    gap: 20px;
+}
+.navegacion div{
+    background-color: #5290f9;
+    width: 20px;
+    height: 2px;
+}
+.navegacion button{
+    display: flex;
+    flex-direction: column;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+.barra1{
+    transform:  rotate(45deg);
+    transition: transform 0.6s linear;
+}
+.barra2{
+    transform: translateY(-2px) rotate(-45deg);
+    transition: transform 0.6s linear;
+}
+.navegacion a{
+    text-decoration: none;
+    font-weight: 900;
+    transition: all 2s;
+}
+.p{
+    width: 5%;
+    transition: all 1s;
+}
+.desaparecer{
+    width: 0;
+    transition: all 1s;
+}
+.hidden{
+    transform: rotateY(180deg) translateX(-200px);
+    opacity: 0;
+    transition: all 1s;
+}
+.mover{
+    transform: translateX(-128px);
+    transition: all 1s;
+}
+.girar:first-child{
+    transform: translateY(-5px) rotate(-720deg);
+    transition: transform 0.6s linear;
+}
+.girar:last-child{
+    transform: translateY(5px);
+    transition: transform 0.6s linear;
+}
+@media (max-width:425px) {
+    .navegacion{
+        width: 75vw;
+    }
+    .p{
+        width: 15%;
+    }
+}
