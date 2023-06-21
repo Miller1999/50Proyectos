@@ -28,6 +28,7 @@ En la siguiente tabla se muestran cada uno de los repositorios de cada proyecto 
 | 10  | [Dad Jokes](https://github.com/Miller1999/50Proyectos/tree/main/10%20Dad%20Jokes)                     | [Demostración](https://50-proyecto-10-dad-jokes.vercel.app/)                  |
 | 11  | [Event KeyCodes](https://github.com/Miller1999/50Proyectos/tree/main/11%20Event%20KeyCodes)           | [Demostración](https://50-proyectos-11-event-keycodes.vercel.app/)            |
 | 12  | [FAQ Collapse](https://github.com/Miller1999/50Proyectos/tree/main/12%20FAQ%20Collapse)               | [Demostración](https://50-proyectos-12-faq-collapse.vercel.app/)              |
+| 13  | [Random Choice](https://github.com/Miller1999/50Proyectos/tree/main/13%20Random%20Choice)             | [Demostración](https://50-proyectos-13-random-choice.vercel.app)              |
 
 ### Tecnologias usadas
 Cada uno de los proyectos ha sido desarrollado completamente en 
