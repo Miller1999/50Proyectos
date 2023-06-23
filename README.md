@@ -30,6 +30,7 @@ En la siguiente tabla se muestran cada uno de los repositorios de cada proyecto 
 | 12  | [FAQ Collapse](https://github.com/Miller1999/50Proyectos/tree/main/12%20FAQ%20Collapse)               | [Demostración](https://50-proyectos-12-faq-collapse.vercel.app/)              |
 | 13  | [Random Choice](https://github.com/Miller1999/50Proyectos/tree/main/13%20Random%20Choice)             | [Demostración](https://50-proyectos-13-random-choice.vercel.app)              |
 | 14  | [Animated Navigation](https://github.com/Miller1999/50Proyectos/tree/main/14%20Animated%20Navigation) | [Demostración](https://50-proyectos-14-animated-navigation.vercel.app/)       |
+| 15  | [Increment Counter](https://github.com/Miller1999/50Proyectos/tree/main/15%20Increment%20Counter)     | [Demostración](https://50-proyectos-15-increment-counter.vercel.app)          |
 
 ### Tecnologias usadas
 Cada uno de los proyectos ha sido desarrollado completamente en 
