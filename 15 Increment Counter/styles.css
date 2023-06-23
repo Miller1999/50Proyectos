@@ -10,7 +10,6 @@ body{
 }
 .contenedorPrincipal{
     width: 50%;
-    border: red 1px solid;
     display: flex;
     justify-content: space-around;
 }
