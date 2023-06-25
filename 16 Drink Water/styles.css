@@ -27,7 +27,7 @@ body{
 .texto p{
     font-size: 20px;
 }
-.litros{
+.jarra{
     height: 350px;
     background-color: white;
     width: 150px;
@@ -42,10 +42,29 @@ body{
     text-align: center;
     color: #144fc6;
     font-weight: 900;
+    position: relative;;
+    
+}
+.litros{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
 }
 .litros p:last-child{
     font-size: 15px;
     font-weight: 500;
+}
+.lleno{
+    background-color: #6ab3f8;
+    width: 100%;
+    border-radius: 0 0 20px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: all .5s;
 }
 .contenedorTarritos{
     display: flex;
