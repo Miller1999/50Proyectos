@@ -1,0 +1,87 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #22254b;
+    font-family: "Raleway";
+}
+nav{
+    background-color: #373b69;
+    width: 100%;
+    height: 15vh;
+    padding: 20px 30px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+nav input{
+    background-color: transparent;
+    width: 300px;
+    font-size: 20px;
+    border: 2px #22254b solid;
+    padding: 10px;
+    border-radius: 20px;
+    color:white;
+    outline: none;
+}
+nav input::placeholder{
+    color: #716db6;
+}
+.contenedorPrincipal{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.tarjeta{
+    width: 300px;
+    margin: 30px;
+    height: 550px;
+    max-height: 550px;
+    background-color: #373b69;
+    position: relative;
+    overflow: hidden;
+}
+.tarjeta img{
+    width: 100%;
+}
+.texto{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.texto h1{
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+}
+.texto p{
+    color:yellow;
+    background-color: #22254b;
+    padding: 10px;
+}
+.informacion{
+    position: absolute;
+    bottom: 0;
+    background-color: white;
+    height: 0%;
+    padding: 30px;
+    visibility: hidden;
+    transform: translateY(100%);
+    transition: transform .3s ease-in   ;
+}
+.informacion h2{
+    margin: 20px;
+    font-size: 30px;
+    font-weight: 900;
+}
+.informacion p{
+    line-height: 25px;
+    font-weight: 900;
+}
+.tarjeta:hover .informacion{
+    height: 90%;
+    visibility: visible;
+    transform: translateY(0%)
+}
