@@ -4,7 +4,7 @@ const buscar = document.getElementById("form")
 const busqueda = document.getElementById("search")
 
 //APIS
-const infoGeneral =  "https://api.themoviedb.org/3/movie/popular?language=en-US&page=1"
+const infoGeneral =  "https://api.themoviedb.org/3/movie/popular?api_key=72721f764d3b911a5e4138eae287a40f&page=1"
 const apiSearch = 'https://api.themoviedb.org/3/search/movie?api_key=72721f764d3b911a5e4138eae287a40f&query="'
 informacion(infoGeneral)
 async function informacion (url){
