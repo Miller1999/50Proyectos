@@ -33,6 +33,8 @@ En la siguiente tabla se muestran cada uno de los repositorios de cada proyecto 
 | 15  | [Increment Counter](https://github.com/Miller1999/50Proyectos/tree/main/15%20Increment%20Counter)     | [Demostración](https://50-proyectos-15-increment-counter.vercel.app)          |
 | 16  | [Drink Water](https://github.com/Miller1999/50Proyectos/tree/main/16%20Drink%20Water)                 | [Demostración](https://50-proyectos-16-drink-water.vercel.app/)               |
 | 17  | [Movie App](https://github.com/Miller1999/50Proyectos/tree/main/17%20Movie%20App)                     | [Demostración](https://50-proyectos-17-movie-app.vercel.app)                  |
+| 18  | [Background Slider](https://github.com/Miller1999/50Proyectos/tree/main/18%20Background%20Slider)     | [Demostración](https://50-proyectos-18-background-slider.vercel.app)          |
+
 
 ### Tecnologias usadas
 Cada uno de los proyectos ha sido desarrollado completamente en 
