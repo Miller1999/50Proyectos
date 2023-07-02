@@ -23,9 +23,9 @@ body::before{
 }
 button{
     background-color: transparent;
-    width: 200px;
+    width: 50px;
     border: 3px darkorange solid;
-    height:200px;
+    height:50px;
     cursor: pointer;
 }
 .left{
@@ -36,6 +36,8 @@ button{
 }
 svg{
     filter: invert(100%);
+    width: 100%;
+    height: 100%;
 }
 .contenedorSlider{
     display: flex;
