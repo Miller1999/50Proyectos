@@ -4,8 +4,7 @@ Este repostiorio esta basado en https://github.com/bradtraversy/50projects50days
 Durante 50 dias se actualizaran a medida que se vayan desarrollando los diferentes mini proyectos incluidos en el repositorio original. Cada uno de estos proyectos se han ido haciendo de manera autonoma.
 
 ## Tabla de Contenidos
-- [50 Proyectos](#title)
-  - [Tabla de Contenidos](#tabla-de-contenidos)
+- [Tabla de Contenidos](#tabla-de-contenidos)
   - [Demostraciones y Repositorios](#demostraciones-y-repositorios)
   - [Tecnologias usadas](#tecnologias-usadas)
   - [Recursos Utiles](#recursos-utiles)
@@ -16,15 +15,15 @@ En la siguiente tabla se muestran cada uno de los repositorios de cada proyecto 
 
 |  #  | Proyecto                                                                                              | Demostración                                                                  |
 | :-: | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------|
-| 01  | [Expanding Cards](https://github.com/Miller1999/50Proyectos/tree/main/1%20Expanding%20Cards)          | [Demostración](https://50-proyectos-1-expandingcards.vercel.app/)             |
-| 02  | [Progress Steps](https://github.com/Miller1999/50Proyectos/tree/main/2%20Progress%20Steps)            | [Demostración](https://50-proyectos-2-progress-steps.vercel.app/)             |
-| 03  | [Rotating Navigation](https://github.com/Miller1999/50Proyectos/tree/main/3%20Rotating%20Navigation)  | [Demostración](https://50-proyectos-3-rotating-navigation.vercel.app/)        |
-| 04  | [Hidden Search](https://github.com/Miller1999/50Proyectos/tree/main/4%20Hidden%20Search)              | [Demostración](https://50-proyectos-4-hidden-search.vercel.app/)              |
-| 05  | [Blurry Loading](https://github.com/Miller1999/50Proyectos/tree/main/5%20Blurry%20Loading)            | [Demostración](https://50-proyectos-5-blurry-loading.vercel.app)              |
-| 06  | [Scroll Animation](https://github.com/Miller1999/50Proyectos/tree/main/6%20Scroll%20Animation)        | [Demostración](https://50-proyectos-6-scroll-animation.vercel.app/)           |
-| 07  | [Split Landing Page](https://github.com/Miller1999/50Proyectos/tree/main/7%20Split%20Landing%20Page)  | [Demostración](https://50-proyectos-7-split-landing-page.vercel.app/)         |
-| 08  | [Form Wave](https://github.com/Miller1999/50Proyectos/tree/main/8%20Form%20Wave)                      | [Demostración](https://50-proyectos-8-form-wave.vercel.app/)                  |
-| 09  | [Sound Board](https://github.com/Miller1999/50Proyectos/tree/main/9%20Sound%20Board)                  | [Demostración](https://50-proyectos-9-sound-board.vercel.app/)                |
+| 01  | [Expanding Cards](https://github.com/Miller1999/50Proyectos/tree/main/01%20Expanding%20Cards)          | [Demostración](https://50-proyectos-1-expandingcards.vercel.app/)             |
+| 02  | [Progress Steps](https://github.com/Miller1999/50Proyectos/tree/main/02%20Progress%20Steps)            | [Demostración](https://50-proyectos-2-progress-steps.vercel.app/)             |
+| 03  | [Rotating Navigation](https://github.com/Miller1999/50Proyectos/tree/main/03%20Rotating%20Navigation)  | [Demostración](https://50-proyectos-3-rotating-navigation.vercel.app/)        |
+| 04  | [Hidden Search](https://github.com/Miller1999/50Proyectos/tree/main/04%20Hidden%20Search)              | [Demostración](https://50-proyectos-4-hidden-search.vercel.app/)              |
+| 05  | [Blurry Loading](https://github.com/Miller1999/50Proyectos/tree/main/05%20Blurry%20Loading)            | [Demostración](https://50-proyectos-5-blurry-loading.vercel.app)              |
+| 06  | [Scroll Animation](https://github.com/Miller1999/50Proyectos/tree/main/06%20Scroll%20Animation)        | [Demostración](https://50-proyectos-6-scroll-animation.vercel.app/)           |
+| 07  | [Split Landing Page](https://github.com/Miller1999/50Proyectos/tree/main/07%20Split%20Landing%20Page)  | [Demostración](https://50-proyectos-7-split-landing-page.vercel.app/)         |
+| 08  | [Form Wave](https://github.com/Miller1999/50Proyectos/tree/main/08%20Form%20Wave)                      | [Demostración](https://50-proyectos-8-form-wave.vercel.app/)                  |
+| 09  | [Sound Board](https://github.com/Miller1999/50Proyectos/tree/main/09%20Sound%20Board)                  | [Demostración](https://50-proyectos-9-sound-board.vercel.app/)                |
 | 10  | [Dad Jokes](https://github.com/Miller1999/50Proyectos/tree/main/10%20Dad%20Jokes)                     | [Demostración](https://50-proyecto-10-dad-jokes.vercel.app/)                  |
 | 11  | [Event KeyCodes](https://github.com/Miller1999/50Proyectos/tree/main/11%20Event%20KeyCodes)           | [Demostración](https://50-proyectos-11-event-keycodes.vercel.app/)            |
 | 12  | [FAQ Collapse](https://github.com/Miller1999/50Proyectos/tree/main/12%20FAQ%20Collapse)               | [Demostración](https://50-proyectos-12-faq-collapse.vercel.app/)              |
